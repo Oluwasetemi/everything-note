@@ -113,16 +113,12 @@ Key Topics from Week 4
 - With the disruption of the new information economy comes plenty of new opportunity. Be prepared for a lifetime of learning!
 ----------
 Solution:
+Looking back at several past weeks and all I have learnt. This course is a total changer and I would like to tell you the 3 concepts that have greatly benefitted my life during the period of taking this course.
 
-Mastery Learning
-showing their *relevance to your life*,
-their *impact on you*,
-**what kinds of changes you'll be making in your life**
-Who you hang out with strongly influences who you are. Choose friends and coworkers who have aspirations that fit in with your goals
-showing their *relevance to your life*,
-their *impact on you*,
-**what kinds of changes you'll be making in your life**
-Develop career resiliency by obtaining a second skill, or developing a broad talent stack of many mediocre skills.
-showing their *relevance to your life*,
-their *impact on you*,
-**what kinds of changes you'll be making in your life**
+Mastering in learning has helped me to become a better software developer who has a career in web development and teaching web development by mastering JavaScript and its usage. It has impacted my life in such a way that I find it interesting to learn new concepts so easily and seamlessly. Looking forward it will help me to build a more robust career just because I can master concept needed as I progress along the leadership ladder of my career and more important as I teach and train new developers in mentorship.
+
+The choice of who I hang out with strongly influences who I am and my choice of friends and coworkers for people who we share similar aspirations that fit in my goals has moved forward  my career because we set goals and motivates each other towards the actualization of our career goals day by day. So Its made me overall happy at the kind of person I am becoming and much more opening me to the possibilities of what I can do with my life. I have got new Jobs based on the network of people I associate with. The saying that `your newtwork is your networth` has had most impact on me. The kind of changes this tunning of my environment will make on my life will be to maximize the 20% of people around me to get the 80% of result to reach my goals (yearly, monthly and weeks).
+
+Develop career resiliency by obtaining a second skill, or developing a broad talent stack of many mediocre skills. As I master building softwares I have gained more proficiency in teaching, sales, pitching ideas and much more speaking to audience either physicially or virtually. It's help me get more opportunities to speak and teach at conferences and meetups. its reinforced a certain behaviour to always look for more skills to learn to complement my life.
+
+The whole process of mindshifting is to ensure I am making quality progress in life and career. An all total round development of my human capacity and potentials.
